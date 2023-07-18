@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+.hero {
+    background: #6943FF;
+    color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+ h2 {
+     font-size: 28px;
+     letter-spacing: -0.84px;
+     font-weight: 800;   
+ }
+ 
+ #input-el{
+     width: 117px;
+     height: 83px;
+     border-radius: 5px;
+     border: 2px solid #B295FF;
+     text-align: center;
+     color: white;
+     background: none;
+     font-size: 60px;
+     font-weight: 700;
+     margin: 20px 0 25px 0;  
+     
+ }
+ 
+ #convert-btn{
+     padding: 9px 27.1px;
+     border-radius: 5px;
+     background: white;
+     font-size: 20px;
+     font-weight: 500;
+     color: #3D3D3D;  
+ }
+ 
+ .main{
+     background: #f4f4f4;
+     padding: 10px;
+ }
+ 
+ .section {
+    background: white;
+    padding: 10px;
+    margin: 25px 36px;
+    height: 108.573px;
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    color: #5A537B;
+}
+p{
+    color: #353535;
+    font-size: 14px;
+    font-weight: 400;
+}
